@@ -1,3 +1,7 @@
+*{
+    background-attachment: fixed
+}
+
 body{
-    
+    background-image: linear-gradient(to bottom, rgb(0, 132, 255), rgb(5, 78, 161));
 }
