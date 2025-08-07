@@ -7,22 +7,39 @@ main{
     display: flex;
     justify-content: center;
     align-items: center;
+    margin-top: 140px;
     width: 800px;
     height: 600px;
     background-color: aliceblue;
     border-radius: 20px;
     padding: 20px;
+    box-shadow: 0px 0px 30px rgb(73, 73, 73);
 }
 
 #container>form>input{
     font-size: 40px;
     margin-bottom: 40px;
-    padding: 10px;
+    padding: 10px 20px;
+    border-radius: 50px;
 }
 
-#container>form>button{
+#container>form>#entrar{
     font-size: 40px;
-    padding: 10px 200px;
+    padding: 10px 210px;
+    border-radius: 50px;
+    cursor: pointer;
+    background-color:  rgb(0, 132, 255);
+    color: aliceblue;
+    font-weight: 600;
+    text-shadow: 0px 2px 2px black;
 }
 
+#container>form>#entrar:hover{
+    background-color: rgb(5, 78, 161);
+    transition-duration: 0.5s;
+}
 
+#container>form>#entrar:focus{
+    background-color: rgb(2, 30, 63);
+    transition-duration: 0.5s;
+}
