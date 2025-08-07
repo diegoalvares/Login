@@ -7,7 +7,7 @@ main{
     display: flex;
     justify-content: center;
     align-items: center;
-    margin-top: 140px;
+    margin-top: 80px;
     width: 800px;
     height: 600px;
     background-color: aliceblue;
@@ -16,9 +16,26 @@ main{
     box-shadow: 0px 0px 30px rgb(73, 73, 73);
 }
 
+#foto{
+    display: flex;
+    justify-content: center;
+}
+
+#foto>img{
+    cursor: pointer;
+    border-radius: 100%;
+    margin-bottom: 20px;
+}
+
+#foto>img:hover{
+    background-color: rgb(5, 31, 177);
+    transition: 0.5s;
+}
+
+
 #container>form>input{
     font-size: 40px;
-    margin-bottom: 40px;
+    margin-bottom: 30px;
     padding: 10px 20px;
     border-radius: 50px;
     box-shadow: 0px 0px 5px rgb(73, 73, 73);
@@ -39,7 +56,7 @@ main{
 }
 
 #container>form>#entrar{
-    margin-top: 40px;
+    margin-top: 5px;
     font-size: 40px;
     padding: 10px 210px;
     border-radius: 50px;
@@ -49,6 +66,7 @@ main{
     font-weight: 600;
     text-shadow: 0px 2px 2px rgb(68, 67, 67);
     border: none;
+    margin-bottom: 10px;
 }
 
 #container>form>#entrar:hover{
@@ -59,4 +77,18 @@ main{
 #container>form>#entrar:focus{
     background-color: rgb(2, 30, 63);
     transition-duration: 0.5s;
+}
+
+
+#atribuicao{
+    margin-top: 40px;
+    font-size: 40px;
+    font-weight: 600;
+    color: aliceblue;
+    text-shadow: 0px 2px 5px rgb(0, 0, 0);
+    transition-duration: 0.5s;
+}
+
+#atribuicao:hover{
+    color: rgb(204, 228, 248);
 }
