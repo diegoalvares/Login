@@ -25,11 +25,11 @@ main{
     cursor: pointer;
     border-radius: 100%;
     margin-bottom: 20px;
+    transition: 0.5s;
 }
 
 #foto>img:hover{
     background-color: rgb(5, 31, 177);
-    transition: 0.5s;
 }
 
 
