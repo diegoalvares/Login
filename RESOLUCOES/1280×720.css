@@ -1,0 +1,66 @@
+@media screen and (min-width: 1280px){
+    #container{
+        margin-top: 20px;
+        width: 700px;
+        height: 530px;
+    }
+
+    #foto>img{
+        width: 180px;
+        margin-bottom: 20px;
+    }
+
+    #container>form>input{
+        width: 450px;
+        font-size: 30px;
+        margin-bottom: 30px;
+        margin-left: 15px;
+    }
+
+    #container>form>#entrar{
+        font-size: 30px;
+        padding: 10px 198px;
+        margin-left: 20px;
+    }
+
+    #info{
+        font-size: 25px;
+        width: 250px;
+        height: 150px;
+        margin: 200px;
+        margin-left: -160px;
+        margin-right: 20px;
+    }
+
+    #erro{
+        font-size: 25px;
+        width: 200px;
+        height: 120px;
+        text-align: center;
+        margin-left: 1065px;
+        margin-top: -150px;
+        margin-bottom: 21px;
+    }
+    
+    #erro>p{
+        padding: 20px 3px;
+    }
+
+    #atc{
+        font-size: 25px;
+        width: 200px;
+        height: 120px;
+        text-align: center;
+        margin-left: 1065px;
+        margin-top: -150px;
+        margin-bottom: 21px;
+    }
+
+#atc>p{
+        padding: 30px 3px;
+    }
+
+    footer>p{
+        margin-top: 16px;
+    }
+}
