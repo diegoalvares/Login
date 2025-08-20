@@ -26,7 +26,7 @@ function passar (e){
         setTimeout(pausaatc, 3000);
     }
 
-    else if (user.value == "nome" & pass.value == "1234"){
+    else if (user.value == "user" & pass.value == "1234"){
         window.location.href = 'inicial.html';
     }
 

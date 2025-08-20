@@ -1,0 +1,59 @@
+@media screen and (min-width: 1600px){
+    #container{
+        margin-top: 60px;
+        width: 800px;
+        height: 630px;
+    }
+
+    #foto>img{
+        width: 230px;
+        margin-bottom: 20px;
+    }
+
+    #container>form>input{
+        width: 450px;
+        font-size: 35px;
+        margin-bottom: 30px;
+        margin-left: 15px;
+    }
+
+    #container>form>#entrar{
+        font-size: 35px;
+        padding: 10px 194px;
+        margin-left: 20px;
+    }
+
+    #info{
+        font-size: 35px;
+        width: 350px;
+        height: 230px;
+        margin: 200px;
+        margin-left: -260px;
+        margin-right: 50px;
+    }
+
+    #erro{
+        font-size: 30px;
+        width: 280px;
+        height: 150px;
+        text-align: center;
+        margin-left: 1295px;
+        margin-top: -185px;
+        margin-bottom: 61px;
+    }
+    
+    #atc{
+        font-size: 35px;
+        width: 280px;
+        height: 150px;
+        text-align: center;
+        margin-left: 1295px;
+        margin-top: -185px;
+        margin-bottom: 55px;
+    }
+
+
+    footer>p{
+        margin-top: 56px;
+    }
+}

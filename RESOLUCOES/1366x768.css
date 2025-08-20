@@ -1,0 +1,32 @@
+@media screen and (min-width: 1366px){
+    #container{
+        margin-top: 45px;
+    }
+
+    #info{
+        font-size: 30px;
+        width: 350px;
+        height: 150px;
+        margin: 200px;
+        margin-left: -210px;
+        margin-right: 20px;
+    }
+
+    #erro{
+        font-size: 25px;
+        width: 210px;
+        margin-left: 1135px;
+        margin-bottom: 44px;
+    }
+
+    #atc{
+        font-size: 28px;
+        width: 210px;
+        margin-left: 1135px;
+        margin-bottom: 41px;
+    }
+
+    footer>p{
+        margin-top: 39px;
+    }
+}
