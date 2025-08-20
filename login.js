@@ -15,11 +15,13 @@ function pausaatc(){
 function passar (e){
     e.preventDefault();
     if (user.value == "" & pass.value == ""){
+        erro.style.display = 'none';
         atc.style.display = 'block';
         setTimeout(pausaatc, 3000);
     }
 
     else if (user.value == "" | pass.value == ""){
+        erro.style.display = 'none';
         atc.style.display = 'block';
         setTimeout(pausaatc, 3000);
     }
@@ -29,6 +31,7 @@ function passar (e){
     }
 
     else {
+        atc.style.display = 'none';
         erro.style.display = 'block';
         setTimeout(pausaerro, 3000);
     }

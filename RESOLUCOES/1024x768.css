@@ -47,4 +47,18 @@
     #erro>p{
         padding: 20px 3px;
     }
+
+    #atc{
+        font-size: 25px;
+        width: 350px;
+        height: 100px;
+        text-align: center;
+        margin-left: 525px;
+        margin-top: -20px;
+        margin-bottom: -105px;
+    }
+
+#atc>p{
+        padding: 30px 3px;
+    }
 }
