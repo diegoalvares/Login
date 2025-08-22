@@ -1,6 +1,6 @@
 @media screen and (min-width: 1920px){
     #container{
-        margin-top: 100px;
+        margin-top: 35px;
         width: 900px;
         height: 730px;
     }
@@ -26,10 +26,10 @@
 
     #info{
         font-size: 35px;
-        width: 450px;
+        width: 400px;
         height: 200px;
         margin: 200px;
-        margin-left: -380px;
+        margin-left: -420px;
         margin-right: 60px;
     }
 
@@ -38,9 +38,9 @@
         width: 380px;
         height: 200px;
         text-align: center;
-        margin-left: 1510px;
+        margin-left: 1490px;
         margin-top: -240px;
-        margin-bottom: 61px;
+        margin-bottom: 21px;
     }
     
     #atc{
@@ -48,13 +48,13 @@
         width: 380px;
         height: 200px;
         text-align: center;
-        margin-left: 1510px;
+        margin-left: 1490px;
         margin-top: -250px;
-        margin-bottom: 61px;
+        margin-bottom: 21px;
     }
 
 
     footer>p{
-        margin-top: 96px;
+        margin-top: 26px;
     }
 }
