@@ -4,6 +4,7 @@ Projeto de uma tela de Login.
 - Caso usuário deixe algum campo vazio, tambeém aparecerá uma mensagem de aviso.
 
 Resoluções aplicadas ao porjeto:
+- 412x914 (mobile);
 - XGA (1024x768);
 - HD (1280×720);
 - WXGA (1366×768);
