@@ -29,32 +29,32 @@
         width: 400px;
         height: 200px;
         margin: 200px;
-        margin-left: -420px;
-        margin-right: 60px;
+        margin-left: -450px;
+        margin-right: 360px;
     }
 
     #erro{
         font-size: 40px;
-        width: 380px;
-        height: 200px;
+        width: 400px;
+        height: 180px;
         text-align: center;
-        margin-left: 1490px;
-        margin-top: -240px;
-        margin-bottom: 21px;
+        margin-left: 1450px;
+        margin-top: -225px;
+        margin-bottom: 50px;
     }
     
     #atc{
         font-size: 50px;
-        width: 380px;
-        height: 200px;
+        width: 440px;
+        height: 180px;
         text-align: center;
-        margin-left: 1490px;
-        margin-top: -250px;
-        margin-bottom: 21px;
+        margin-left: 1450px;
+        margin-top: -235px;
+        margin-bottom: 50px;
     }
 
 
     footer>p{
-        margin-top: 26px;
+        margin-top: 45px;
     }
 }

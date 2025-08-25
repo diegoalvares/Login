@@ -27,9 +27,9 @@
         font-size: 25px;
         width: 250px;
         height: 150px;
-        margin: 200px;
-        margin-left: -160px;
-        margin-right: 20px;
+        margin-left: -190px;
+        margin-right: 330px;
+        margin-top: 50px;
     }
 
     #erro{
@@ -37,9 +37,9 @@
         width: 200px;
         height: 120px;
         text-align: center;
-        margin-left: 1065px;
+        margin-left: 1060px;
         margin-top: -150px;
-        margin-bottom: 21px;
+        margin-bottom: 41px;
     }
     
     #erro>p{
@@ -51,9 +51,9 @@
         width: 200px;
         height: 120px;
         text-align: center;
-        margin-left: 1065px;
+        margin-left: 1060px;
         margin-top: -150px;
-        margin-bottom: 21px;
+        margin-bottom: 41px;
     }
 
 #atc>p{
@@ -61,6 +61,6 @@
     }
 
     footer>p{
-        margin-top: 16px;
+        margin-top: 36px;
     }
 }

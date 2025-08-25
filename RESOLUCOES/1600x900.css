@@ -1,4 +1,4 @@
-@media screen and (min-width: 1600px){
+@media screen and (min-width: 1600px){    
     #container{
         margin-top: 60px;
         width: 800px;
@@ -27,33 +27,33 @@
         font-size: 35px;
         width: 350px;
         height: 230px;
-        margin: 200px;
-        margin-left: -260px;
-        margin-right: 50px;
+        margin-top: 200px;
+        margin-left: -330px;
+        margin-right: 330px;
     }
 
     #erro{
         font-size: 30px;
-        width: 280px;
+        width: 320px;
         height: 150px;
         text-align: center;
-        margin-left: 1295px;
+        margin-left: 1250px;
         margin-top: -185px;
-        margin-bottom: 61px;
+        margin-bottom: 81px;
     }
     
     #atc{
         font-size: 35px;
-        width: 280px;
+        width: 320px;
         height: 150px;
         text-align: center;
-        margin-left: 1295px;
+        margin-left: 1250px;
         margin-top: -185px;
-        margin-bottom: 55px;
+        margin-bottom: 71px;
     }
 
 
     footer>p{
-        margin-top: 56px;
+        margin-top: 76px;
     }
 }
